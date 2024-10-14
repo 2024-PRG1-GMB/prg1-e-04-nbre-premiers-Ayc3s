@@ -1,0 +1,5 @@
+- Pas de constantes pour les entrées utilisateur ('O' et 'N')
+- Il manque la lib cstdlib
+- Affichage début et fin du programme non conforme à la donnée
+- Le programme part en affichage boucle infinie si l'on rentre 2 mauvaise entrées lorsque l'on nous demande si l'on veut recommencer
+- La prochaine fois, ajoutez les fichiers de compilation cmake dans votre repo!
